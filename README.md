@@ -4,7 +4,6 @@
 - Run `./gradlew build` to download dependencies
 - Accepted program argument: `English`, `Russian`
 - To run with gradle: `./gradlew run --args="Russian"`
-- To run with jar `java -jar build/libs/...path to your SNAPSHOT.jar`
 - Example result:
 ``````
 -----------------------------------------------------
